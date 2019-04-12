@@ -1,7 +1,22 @@
-myFullPage
-=
-目录结构：
--
+# myFullPage
+
+## 概述
+
+仿写FullPage插件，并通过插件实现FullPage官网
+
+## 应用方法
+
+* jQuery
+
+* entends 添加实例方法
+
+* 实现链式调用
+
+* 动态添加页面及页面内容个
+
+* 预留添加页面工厂接口
+
+## 目录结构：
 <pre>
 .
 ├── index.html
